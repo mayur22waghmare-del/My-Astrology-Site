@@ -1,0 +1,37 @@
+{
+  "name": "my-astrology-site",
+  "version": "1.0.0",
+  "description": "My Astrology Site",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayur22waghmare-del/My-Astrology-Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayur22waghmare-del/My-Astrology-Site/issues"
+  },
+  "homepage": "https://github.com/mayur22waghmare-del/My-Astrology-Site#readme",
+  "dependencies": {
+    "@types/node": "^25.9.1",
+    "@types/react": "^19.2.15",
+    "@types/react-dom": "^19.2.3",
+    "@vercel/speed-insights": "^2.0.0",
+    "next": "^16.2.6",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "typescript": "^6.0.3"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.5",
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^16.2.6"
+  }
+}
